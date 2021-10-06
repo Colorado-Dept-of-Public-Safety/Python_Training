@@ -9,5 +9,3 @@ Python Training Notebook for CCAA and NFCA
   
 ## Data Source  
   <p><a href="https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime">Denver Crime Data 2015 - 2020</a></p>
-## Examples are listed in the Notebook 
-
