@@ -4,7 +4,7 @@ Python Training Notebook for CCAA and NFCA
 <p><ul>
   <li> CCAA Python Training - This notebook is the start of the training sessions for both CCAA and NFCA python workshop.</li>
  <li> CCAA Python Training 2 - This is the second notebook is the series; This focuses on Presenting the Data. </li>
-<li> CCA Python Training 2 PDF Report - a PDF Report of the findings from the second notebook.</li> 
+<li> CCAA Python Training 2 PDF Report - a PDF Report of the findings from the second notebook.</li> 
   <li> Python Training pptx - Powerpoint Presentation  For Training</li></ul></p>
   
 ## Data Source  
